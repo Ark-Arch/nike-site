@@ -5,3 +5,5 @@ stack
 - react
 
 *put all representation in first before styling!
+
+included an hamburger functionality as well
